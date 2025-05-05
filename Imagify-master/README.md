@@ -13,9 +13,9 @@
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/singh04ayush/imagify?style=social)](https://github.com/singh04ayush/imagify/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/singh04ayush/imagify?style=social)](https://github.com/singh04ayush/imagify/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/singh04ayush/imagify?style=social)](https://github.com/singh04ayush/imagify/issues)
+[![GitHub stars](https://img.shields.io/github/stars/stym-29/imagify?style=social)](https://github.com/stym-29/imagify/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/stym-29/imagify?style=social)](https://github.com/stym-29/imagify/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/stym-29/imagify?style=social)](https://github.com/stym-29/imagify/issues)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/singh04ayush/imagify.git
+git clone https://github.com/stym-29/imagify.git
 cd imagify
 ```
 
@@ -195,6 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contributed with ❤️ by [ phoenixdev100 ] & [singh04ayush]
 
-[![GitHub Follow](https://img.shields.io/github/followers/singh04ayush?style=social)](https://github.com/singh04ayush)
+[![GitHub Follow](https://img.shields.io/github/followers/stym-29?style=social)](https://github.com/stym-29)
 
 </div> 
